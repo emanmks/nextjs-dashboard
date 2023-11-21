@@ -16,3 +16,5 @@ This is a training repo to implement tutorial of building dahsbord using NextJS.
 - [x] Chapter 7: Data fetching
 - [x] Chapter 8: Static & dynamic rendering
 - [x] Chapter 9: Streaming
+- [x] Chapter 10: Partial prerendering (optional: skipped)
+- [x] Chapter 11: Search & pagination
