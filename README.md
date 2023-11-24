@@ -18,3 +18,5 @@ This is a training repo to implement tutorial of building dahsbord using NextJS.
 - [x] Chapter 9: Streaming
 - [x] Chapter 10: Partial prerendering (optional: skipped)
 - [x] Chapter 11: Search & pagination
+- [x] Chapter 12: Mutating data with server actions
+- [ ] Chapter 13: Handling errors
