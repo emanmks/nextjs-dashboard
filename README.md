@@ -22,4 +22,4 @@ This is a training repo to implement tutorial of building dahsbord using NextJS.
 - [x] Chapter 13: Handling errors
 - [x] Chapter 14: Improve accessibility
 - [x] Chapter 15: Adding authentication
-- [ ] Chapter 15: Adding metadata
+- [x] Chapter 15: Adding metadata
